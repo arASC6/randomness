@@ -1,4 +1,4 @@
-/ GLOBAL VARIABLES //
+// GLOBAL VARIABLES /
 /////////////////////
 const alphabet = "abcdefghijklmnopqrstuvwxyz"
 const foods = [
@@ -22,13 +22,23 @@ const students = [
 //////////////////////////////////
 // END OF GLOBAL VARIABLES //
 /////////////////////////////////
+let randomNumber = Math.random();
+    console.log(randomNumber * 20 + 1)
 
-randomNumber
 
-randomLetter
 
-randomFood
+function randomLetter(){
 
-randomStudent
+}
 
-randomGroup
+function randomFood(){
+
+}
+
+function randomStudent(){
+
+}
+
+function randomGroup(){
+
+}
